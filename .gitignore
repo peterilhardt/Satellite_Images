@@ -6,3 +6,4 @@ Helber_et_al_2017.pdf
 .DS_Store
 *.tmp
 deepsat_test.ipynb
+*.h5
